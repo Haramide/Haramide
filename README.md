@@ -1,7 +1,7 @@
 Welcome, My name is Abdulsalam Toyeeb Aramide,
 I am a Data Analyst, Computer Science student and Problem Solver.
 
-## Interesting Facts about me:
+### Interesting Facts about me:
 
 - I collect, wrangle, and analyze data sets to find insights to solve a problem.
   
@@ -13,7 +13,7 @@ I am a Data Analyst, Computer Science student and Problem Solver.
 
  -I want to join a dynamic organization to enhance my skills and create innovative solutions that make a big impact.
 
- ## #Pastimes
+ ### #Pastimes
  I ride, I skate, Gym rat, I love board and card games.  
   
 ### Tools I use for Data Analysis
