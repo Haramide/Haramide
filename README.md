@@ -9,6 +9,7 @@ Interesting Facts about me:
  -Very passionate. willing to learn, learn and learn.
   
 -Tools I use for Data Analysis
+
 Google sheets
 Microsoft Excel
 SQL Server
