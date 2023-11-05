@@ -16,4 +16,6 @@ SQL Server
 Power Bi
 Tableau
 
- -How to reach me: LinkedIn, Twitter and Medium
+ -How to reach me: 
+ 
+ [LinkedIn](https://www.linkedin.com/in/aramide-abdulsalam-65685411b/), [Twitter](https://twitter.com/cryptoguynxtdor) , [Medium](https://medium.com/@haramidebeam) 
