@@ -9,7 +9,7 @@ I am a Data Analyst, Computer Science student and Problem Solver.
  
  -I’m looking for help with job opportunites.
  
- -Very passionate. willing to learn, learn and learn.
+ -Very passionate. willing to learn, unlearn and relearn.
 
  -I want to join a dynamic organization to enhance my skills and create innovative solutions that make a big impact.
 
